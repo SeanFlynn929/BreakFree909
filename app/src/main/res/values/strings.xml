@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">multitab test</string>
+
+    <string-array name="quotes">
+        <item>Romans 8:38-39 - For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.</item>
+        <item>“He will win who knows when to fight and when not to fight.” – Sun Tzu</item>
+        <item>“To fight and conquer in all our battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting.” – Sun Tzu</item>
+        <item>John 15:13 - Greater love has no one than this: to lay down one\'s life for one\'s friends.</item>
+        <item>“In the midst of chaos, there is also opportunity.” – Sun Tzu</item>
+        <item>“Even the finest sword plunged into salt water will eventually rust.” – Sun Tzu</item>
+        <item>“Be extremely subtle, even to the point of formlessness. Be extremely mysterious, even to the point of soundlessness. Thereby you can be the director of the opponent’s fate.” – Sun Tzu</item>
+        <item>Proverbs 3:3-6 - Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.</item>
+        <item>Psalm 107:1 - Give thanks to the LORD for He is good: His love endures forever.</item>
+        <item>Philippians 4:13 - I can do all things through him who strengthens me.</item>
+        <item>Mark 10:27 - Jesus looked at them and said, ‘With man it is impossible, but not with God. For all things are possible with God.\'</item>
+        <item>Romans 8:28 - And we know that in all things God works for the good of those who love him, who have been called according to his purpose.</item>
+        <item>“Keep your friends close, and your enemies closer.” – Sun Tzu</item>
+        <item>Romans 8:31 - What, then, shall we say in response to these things? If God is for us, who can be against us?</item>
+        <item>Happiness is the only good. The time to be happy is now. The place to be happy is here. The way to be happy is to make others so - Robert Green Ingersoll</item>
+        <item>Do not take life too seriously. You will never get out of it alive. - Elbert Hubbard</item>
+        <item>And He found you lost and guided [you] | Surah Ad-Duhaa 93:7</item>
+        <item>Isaiah 40:31 - But they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.</item>
+        <item>“Treat your men as you would your own beloved sons. And they will follow you into the deepest valley.” – Sun Tzu</item>
+        <item>True happiness is... to enjoy the present, without anxious dependence upon the future. - Lucius Annaeus Seneca</item>
+        <item>“Engage people with what they expect; it is what they are able to discern and confirms their projections. It settles them into predictable patterns of response, occupying their minds while you wait for the extraordinary moment — that which they cannot anticipate.” – Sun Tzu</item>
+        <item>“There is no instance of a nation benefitting from prolonged warfare.” – Sun Tzu</item>
+        <item>If your actions inspire others to dream more, learn more, do more and become more, you are a leader. - John Quincy Adams</item>
+        <item>“All warfare is based on deception. Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.” – Sun Tzu</item>
+        <item>Matthew 19:26 - But Jesus looked at them and said, ‘With man this is impossible, but with God all things are possible.\'</item>
+        <item>Lamentations 3:22-23 - The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.</item>
+        <item>“Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.” – Sun Tzu</item>
+        <item>We are shaped by our thoughts; we become what we think. - Gautama Buddha</item>
+        <item>Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude. - Thomas Jefferson</item>
+        <item>“If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.” – Sun Tzu</item>
+        <item>The great aim of education is not knowledge but action. - Herbert Spencer</item>
+        <item>“If the mind is willing, the flesh could go on and on without many things.” – Sun Tzu</item>
+        <item>“Appear weak when you are strong, and strong when you are weak.” – Sun Tzu</item>
+        <item>Knowing is not enough; we must apply. Willing is not enough; we must do. - Johann Wolfgang von Goethe</item>
+        <item>If you suffer, thank God! It is a sure sign that you are alive. - Elbert Hubbard</item>
+        <item>The greatest test of courage on earth is to bear defeat without losing heart. - Robert Green Ingersoll</item>
+        <item>“Supreme excellence consists of breaking the enemy’s resistance without fighting.” – Sun Tzu</item>
+        <item>“The greatest victory is that which requires no battle.” – Sun Tzu</item>
+        <item>“There are not more than five musical notes, yet the combinations of these five give rise to more melodies than can ever be heard.There are not more than five primary colors, yet in combination they produce more hues than can ever been seen.There are not more than five cardinal tastes, yet combinations of them yield more flavors than can ever be tasted.” – Sun Tzu</item>
+        <item>“Move swift as the Wind and closely-formed as the Wood. Attack like the Fire and be still as the Mountain.” – Sun Tzu</item>
+        <item>“If you are far from the enemy, make him believe you are near.” – Sun Tzu</item>
+        <item>Romans 15:13 - May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.</item>
+        <item>“Know thy self, know thy enemy. A thousand battles, a thousand victories.” – Sun Tzu</item>
+        <item>“Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.” – Sun Tzu</item>
+        <item>The secret of getting ahead is getting started. - Mark Twain</item>
+        <item>1 Corinthians 16:13-14 - Be watchful, stand firm in the faith, act like men, be strong. Let all that you do be done in love.</item>
+        <item>“Opportunities multiply as they are seized.” – Sun Tzu</item>
+        <item>The mind is everything. What you think, you become. - Gautama Buddha</item>
+        <item>“When strong, avoid them. If of high morale, depress them. Seem humble to fill them with conceit. If at ease, exhaust them. If united, separate them. Attack their weaknesses. Emerge to their surprise.” – Sun Tzu</item>
+        <item>Positive anything is better than negative nothing. - Elbert Hubbard</item>
+        <item>To avoid criticism, do nothing, say nothing, and be nothing. - Elbert Hubbard</item>
+        <item>Surplus wealth is a sacred trust which its possessor is bound to administer in his lifetime for the good of the community. - Andrew Carnegie</item>
+        <item>“You have to believe in yourself.” – Sun Tzu</item>
+        <item>Verily, with the hardship, there is relief | Surah al-Inshirah (94:5-6)</item>
+        <item>There are only two mistakes one can make along the road to truth: Not going all the way, and not starting. - Gautama Buddha</item>
+        <item>Don’t judge each day by the harvest that you reap but by the seeds that you plant. - Robert Louis Stevenson</item>
+        <item>“To know your Enemy, you must become your Enemy.” – Sun Tzu</item>
+        <item>It is the mark of an educated mind to be able to entertain a thought without accepting it. - Aristotle</item>
+        <item>As I grow older, I pay less attention to what men say. I just watch what they Do. - Andrew Carnegie</item>
+        <item>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment. - Gautama Buddha</item>
+        <item>1 Peter 5:7 - Casting all your anxieties on him, because he cares for you.</item>
+        <item>“Invincibility lies in the defence; the possibility of victory in the attack.” – Sun Tzu</item>
+        <item>“It is only the enlightened ruler and the wise general who will use the highest intelligence of the army for the purposes of spying, and thereby they achieve great results.” – Sun Tzu</item>
+        <item>“The opportunity to secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.” – Sun Tzu</item>
+        <item>“Quickness is the essence of the war.” – Sun Tzu</item>
+        <item>Jeremiah 29:11 - "For I know the plans I have for you," declares the LORD, "plans to prosper you and not to harm you, plans to give you hope and a future."</item>
+        <item>“Even the finest sword plunged into salt water will eventually rust.” – Sun Tzu</item>
+        <item>“Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.” – Sun Tzu</item>
+        <item>“A leader leads by example, not by force.” – Sun Tzu</item>
+        <item>A person often meets his destiny on the road he took to avoid it. - Jean de La Fontaine</item>
+        <item>Ephesians 3:20 - Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us.</item>
+        <item>For success, attitude is equally as important as ability. - Walter Scott</item>
+        <item>Beware of missing chances; otherwise it may be altogether too late some day. - Franz Liszt</item>
+        <item>A great man does not seek applause or place; he seeks for truth; he seeks the road to happiness, and what he ascertains, he gives to others. -Robert Green Ingersoll</item>
+        <item>Psalm 31:24 - Be strong, and let your heart take courage, all you who wait for the LORD!</item>
+        <item>“Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.” – Sun Tzu</item>
+        <item>“The supreme art of war is to subdue the enemy without fighting.” – Sun Tzu</item>
+        <item>“The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim.” – Sun Tzu</item>
+        <item>“Victory usually goes to the army who has better trained officers and men.” – Sun Tzu</item>
+        <item>Wise men speak because they have something to say; Fools because they have to say something. - Plato</item>
+        <item>Matthews 17:20 - Our faith can move mountains.</item>
+        <item>To keep the body in good health is a duty ... otherwise we shall not be able to keep our mind strong and clear. - Gautama Buddha</item>
+        <item>John 4:18 - There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love.</item>
+        <item>Life is the continuous adjustment of internal relations to external relations. - Herbert Spencer</item>
+        <item>Psalm 34:8 - Taste and see that the LORD is good; blessed is the one who takes refuge in him.</item>
+        <item>“When the enemy is relaxed, make them toil. When full, starve them. When settled, make them move.” – Sun Tzu</item>
+        <item>Psalm 27:12 - The LORD is my light and my salvation; whom shall I fear? The LORD is the stronghold of my life; of whom shall I be afraid?</item>
+        <item>Isaiah 41:10 - Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.</item>
+        <item>1 Corinthians 15:58 - Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the LORD, knowing that in the LORD your labor is not in vain.</item>
+        <item>“Can you imagine what I would do if I could do all I can?” – Sun Tzu</item>
+        <item>“Know yourself and you will win all battles.” – Sun Tzu</item>
+        <item>Whatever words we utter should be chosen with care for people will hear them and be influenced by them for good or ill. - Gautama Buddha</item>
+        <item>Experience is the teacher of all things. - Julius Caesar</item>
+        <item>2 Corinthians 4:16-18 - So we do not lose heart. Though our outer self is wasting away, our inner self is being renewed day by day. For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison, as we look not to the things that are seen but to the things that are unseen.</item>
+        <item>“If your enemy is secure at all points, be prepared for him. If he is in superior strength, evade him. If your opponent is temperamental, seek to irritate him. Pretend to be weak, that he may grow arrogant. If he is taking his ease, give him no rest. If his forces are united, separate them. If sovereign and subject are in accord, put division between them. Attack him where he is unprepared, appear where you are not expected.” – Sun Tzu</item>
+        <item>When you arise in the morning, think of what a precious privilege it is to be alive – to breathe, to think, to enjoy, to love. - Marcus Aurelius</item>
+        <item>Deuteronomy 31:6 - Be strong and courageous. Do not be afraid or terrified because of them, or the LORD your God goes with you; he will never leave you nor forsake you.</item>
+    </string-array>
+</resources>

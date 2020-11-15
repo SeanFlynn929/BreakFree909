@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:background="@drawable/done4"
+    android:orientation="vertical"
+    tools:context="SecondActivity">
+
+
+    <TextView
+        android:id="@+id/Battle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:text="My battle plan:"
+        android:textColor="	#bb0a1e"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/graduate"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <EditText
+        android:id="@+id/toolsNotes"
+        android:layout_width="300dp"
+        android:layout_height="473dp"
+        android:layout_gravity="center"
+        android:background="#1B000000"
+        android:gravity="start"
+        android:hint="Enter important info"
+        android:textColor="	#bb0a1e" />
+
+    <Button
+        android:id="@+id/button_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/rounded_button2"
+        android:text="save"
+        android:textColorHighlight="#DADADA"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</LinearLayout>

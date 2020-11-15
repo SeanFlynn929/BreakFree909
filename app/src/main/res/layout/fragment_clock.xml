@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/listView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/done3"
+    android:paddingLeft="20dp"
+    android:paddingTop="20dp"
+    android:paddingRight="20dp"
+    android:paddingBottom="10dp">
+
+<RelativeLayout
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Tools"
+        android:textColor="#484848"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:fontFamily="serif" />
+
+
+    <Chronometer
+        android:id="@+id/chronometer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/moneySaved"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/chronometer"
+        android:layout_centerHorizontal="true"
+        android:textSize="24dp"
+        android:textColor="#000000"
+        />
+
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="145dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/moneySaved"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rounded_button2"
+        android:text="I will recommit" />
+
+    <Button
+        android:id="@+id/stopBtn"
+        android:layout_width="115dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/startBtn"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rounded_button2"
+        android:text="I messed up" />
+
+    <TextView
+        android:layout_width="156dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/stopBtn"
+        android:layout_alignBottom="@id/moneyEdit"
+        android:layout_marginTop="26dp"
+        android:layout_marginRight="13dp"
+        android:layout_marginBottom="5dp"
+        android:layout_toLeftOf="@id/moneyEdit"
+        android:gravity="center"
+        android:text="Cost of addiction:"
+        android:textColor="#000000"
+        android:textSize="18dp" />
+
+    <EditText
+        android:id="@+id/moneyEdit"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/stopBtn"
+        android:layout_alignEnd="@+id/stopBtn"
+        android:layout_alignRight="@+id/stopBtn"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="-33dp"
+        android:layout_marginRight="-33dp"
+        android:hint="$0.00"
+        android:inputType="numberDecimal"
+        android:textColor="#000000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/stopBtn"
+        android:layout_alignBottom="@id/moneyEdit"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="-24dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="27dp"
+        android:layout_marginRight="27dp"
+        android:layout_marginBottom="6dp"
+        android:layout_toRightOf="@id/moneyEdit"
+        android:gravity="center"
+        android:text="per day"
+        android:textColor="	#000000"
+        android:textSize="18dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/moneyEdit"
+        android:layout_alignBaseline="@id/newEntryButton"
+        android:layout_marginStart="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginRight="18dp"
+        android:layout_marginBottom="18dp"
+        android:text="Journal Entries"
+        android:textColor="	#000000"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/newEntryButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/moneyEdit"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="6dp"
+        android:background="@drawable/rounded_button2"
+        android:layout_marginRight="17dp"
+        android:text="New Entry" />
+
+    <LinearLayout
+        android:id="@+id/journal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/newEntryButton"
+        android:layout_marginTop="-3dp"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>
+</ScrollView>
